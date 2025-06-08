@@ -1,4 +1,4 @@
-This repository contains replication files for "Causal Inference Under Approximate Neighborhood Interference". The files were coded for Python 3 and require the following dependencies: numpy, scipy, networkx, and pandas.
+This repository contains replication files for "Causal Inference Under Approximate Neighborhood Interference." The files were coded for Python 3 and require the following dependencies: numpy, scipy, networkx, and pandas.
 
 Contents:
 * AS\_bias.py: simulate the bias of our and Aronow and Samii's variance estimators.
